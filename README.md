@@ -1,10 +1,8 @@
 <div align="center">
-  <!-- Header Banner Animasi -->
   <img src="https://i.ibb.co/L5YwNq6/cyberpunk-city-banner.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 15px;"/>
   
   <br><br>
-  
-  <!-- Animasi Typing SVG bergaya Terminal Game -->
+ 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=>+Initializing+System...;>+Player_1:+Ricardo_Gellael;>+Specialization:+Web+Dev+|+Networking+|+GIS;>+Status:+Ready_for_Exploration_" alt="Typing SVG" />
   </a>
