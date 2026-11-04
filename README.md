@@ -6,7 +6,7 @@ Mahasiswa Informatika di Universitas Bengkulu. Saya membangun aplikasi web denga
 
 Di luar layar, saya push rank di Mobile Legends.
 
-<br>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ### Proyek
 
@@ -17,13 +17,13 @@ Di luar layar, saya push rank di Mobile Legends.
 <a href="https://kalibataproject.my.id"><img src="./assets/project-kalibata.svg" alt="Kalibata Project, kalibataproject.my.id" width="48.5%" /></a>
 </div>
 
-<br>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ### Stack
 
-<img src="./assets/stack.svg" alt="Tech stack: Rust, Axum, PostgreSQL, React, Svelte, TypeScript, Vite, MapLibre, Cloudflare, Vercel, AWS, NASA FIRMS, Earth Engine, Python" width="100%" />
+<img src="./assets/stack.svg" alt="Tech stack: Rust, Axum, PostgreSQL, React, Svelte, TypeScript, Vite, MapLibre, Cloudflare, Vercel, AWS, NASA FIRMS, Earth Engine, Copernicus, Python" width="100%" />
 
-<br>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ### Kontak
 
