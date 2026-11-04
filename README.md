@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,50:0B3D91,100:0a0a1a&height=230&section=header&text=Ricardo%20Gellael&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Tech%20Explorer&descAlignY=58&descSize=22&animation=fadeIn" alt="Ricardo Gellael - Tech Explorer" width="100%"/>
+<img src="./assets/header.svg" alt="Ricardo Gellael - Tech Explorer" width="100%" />
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ### Player Status
 * **Class:** `Tech Explorer`
@@ -13,7 +13,7 @@
 * **Main Weapons:** `Rust` · `React` · `Cloudflare`
 * **Currently:** Membangun peta interaktif dan aplikasi data geospasial untuk Indonesia
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ### Featured Projects
 
@@ -38,7 +38,7 @@
 </table>
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ### Tech Stack
 
@@ -93,7 +93,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ### Active Quests
 - **Main Quest:** Merancang arsitektur aplikasi web modern yang *scalable* dengan Rust di backend dan React di frontend.
@@ -102,7 +102,7 @@
 - **Leveling Up:** Meningkatkan keahlian di bidang algoritma serta analitik data.
 - **AFK Zone:** Pushing rank di Mobile Legends: Bang Bang.
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 ### GitHub Stats
 
@@ -110,7 +110,7 @@
   <img src="https://streak-stats.demolab.com/?user=Gellael&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" alt="Streak" />
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <div align="center">
   <p><b>Connect</b></p>
@@ -123,5 +123,5 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0B3D91,100:00FF9D&height=100&section=footer" alt="Footer" width="100%"/>
+  <img src="./assets/footer.svg" alt="" width="100%" />
 </div>
