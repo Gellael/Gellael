@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/Axum-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Axum" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven" />
 
 <br>
 
