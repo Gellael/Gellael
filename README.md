@@ -2,9 +2,11 @@
 
 <br>
 
-Mahasiswa Informatika di Universitas Bengkulu. Saya membangun aplikasi web dengan **Rust** dan **React**, men-deploy-nya di **Cloudflare**, dan banyak bekerja dengan data geospasial dari NASA dan Copernicus.
+Halo, saya Ricardo 👋 Mahasiswa Informatika yang hobi menjelajah dunia lewat kode. Hari-hari saya diisi dengan membangun aplikasi web pakai **Rust** dan **React**, lalu mengirimnya ke **Cloudflare**. Bahan favorit saya adalah data satelit dari NASA dan Copernicus, yang saya ubah jadi peta yang bisa dipakai siapa saja.
 
-Di luar layar, saya push rank di Mobile Legends.
+Kalau lagi butuh istirahat dari layar kode, saya pindah ke layar lain: push rank di Mobile Legends.
+
+<img src="./assets/profile.svg" alt="Profil karakter: Tech Explorer, Informatika Universitas Bengkulu, senjata Rust dan React, markas Cloudflare, peta andalan data satelit NASA dan Copernicus, side quest push rank Mobile Legends" width="100%" />
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
