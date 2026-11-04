@@ -2,10 +2,6 @@
 
 <br>
 
-Halo, saya Ricardo 👋 Mahasiswa Informatika yang hobi menjelajah dunia lewat kode. Hari-hari saya diisi dengan membangun aplikasi web pakai **Rust** dan **React**, lalu mengirimnya ke **Cloudflare**. Bahan favorit saya adalah data satelit dari NASA dan Copernicus, yang saya ubah jadi peta yang bisa dipakai siapa saja.
-
-Kalau lagi butuh istirahat dari layar kode, saya pindah ke layar lain: push rank di Mobile Legends.
-
 <img src="./assets/profile.svg" alt="Profil karakter: Tech Explorer, Informatika Universitas Bengkulu, senjata Rust dan React, markas Cloudflare, peta andalan data satelit NASA dan Copernicus, side quest push rank Mobile Legends" width="100%" />
 
 <img src="./assets/divider.svg" alt="" width="100%" />
@@ -29,8 +25,10 @@ Kalau lagi butuh istirahat dari layar kode, saya pindah ke layar lain: push rank
 
 ### Kontak
 
-Email: [ricardogellael48@gmail.com](mailto:ricardogellael48@gmail.com)<br>
-LinkedIn: [ricardo-gellael](https://www.linkedin.com/in/ricardo-gellael-86303a401)
+<div>
+<a href="mailto:ricardogellael48@gmail.com"><img src="./assets/contact-email.svg" alt="Kirim email" width="48.5%" /></a>
+<a href="https://www.linkedin.com/in/ricardo-gellael-86303a401"><img src="./assets/contact-linkedin.svg" alt="Terhubung di LinkedIn" width="48.5%" /></a>
+</div>
 
 <br>
 
